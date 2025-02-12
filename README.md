@@ -1,13 +1,13 @@
 # Entrega1
-# README - Pablo Lomba Martínez
+# CV-Pablo Lomba Martínez
 
 ## Información Personal
 **Nombre:** Pablo Lomba Martínez  
-**Dirección habitual:** C/Paradores 3, puerta 7, Madrid, 28023  
-**Dirección de vacaciones:** C/General Gutiérrez Mellado, nº8, 6º Pontevedra, 36001  
-**Fecha de nacimiento:** 18/12/2000  
-**Email:** pablolombam@gmail.com  
-**Teléfono:** +34 689852725  
+**Dirección habitual:**   
+**Dirección de vacaciones:** 
+**Fecha de nacimiento:** 
+**Email:**  
+**Teléfono:**  
 
 ---
 ## Estudios
